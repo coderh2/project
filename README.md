@@ -1,4 +1,4 @@
 # project
-Author-coderh2
+Game_name-location changer 
 <br/>
 language-python
